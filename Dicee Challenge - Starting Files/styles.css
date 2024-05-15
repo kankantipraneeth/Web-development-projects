@@ -1,0 +1,43 @@
+body {
+  background-color: #9f9adb;
+}
+
+h1 {
+  text-align: center;
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;
+}
+
+.grandstander {
+  font-family: "Grandstander", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 4rem;
+  color: #f5d93b;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.player {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 2rem;
+  font-style: normal;
+  text-align: center;
+  color: #37f4d7;
+}
+.gameMsg {
+  text-align: center;
+  font-size: 2rem;
+  color: #00ff11;
+  font-family: "Rock Salt", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
